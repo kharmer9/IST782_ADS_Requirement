@@ -2,6 +2,10 @@
 
 Below is the overview, video submission, and blog post for the IST 782 requirment. To view projects (also required for the project), please navigate to my [project portfolio](https://github.com/kharmer9/).
 
+<h3>Experience Overview</h3>
+
+***Insert Video Here***
+
 <h3>Academic Learning Outcomes</h3>
 
 <h5><i>Objective 1.  Collect, store, and access data by identifying and leveraging applicable technologies</i></h5>
@@ -30,7 +34,7 @@ With the proper background, effective visualizations can be generated which infl
   
 Perhaps the largest barrier to data science in today's age is the ethical implications. With the development of widespread data, many consumers and authority figures are questioning how data is obtained without violating privacy policies. In recent years, tighter restrictions (e.g. Apple's "Ask App not to Track") have been placed restricting the flow of data. Privacy does not stop with the flow of data; predictive models have begun to make predictions about important, private parts of people's lives, some of which they do not know. Target, for example, had an advertising campaign that was able to predict a woman's pregnancy (through advertisements of diapers, baby clothes, etc.) based on her buying habits where the woman did not even know she was pregnant. Predictive models struggle with more than just privacy on occasion – specific biases, including but not limited to racial, sexist, and age-related have influenced the projection of models (e.g. loan default). Considering these factors is very important when constructing a model. It is important to be fair across all demographics, regardless of data trends.
 
-<h3>Program Reflection (Blog Post)</h3>
+<h3>Program Reflection</h3>
 
 Overall, the program was just what I needed to begin a career with data. I came in with a background with mathematics and physics, with some computer science knowledge (practical applications in math/physics). Covid was also rampant at the time and many companies had restricted hiring procedure. So, studying data science for two years was a perfect fit, due to the concentrated area of study along with giving the job market some time to reset.
 
