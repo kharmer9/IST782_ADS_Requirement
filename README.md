@@ -1,5 +1,7 @@
 <h1>Applied Data Science Portfolio (IST 782)</h1>
 
+Below is the overview, video submission, and blog post for the IST 782 requirment. To view projects (also required for the project), please navigate to my [project portfolio](https://github.com/kharmer9/).
+
 <h3>Academic Learning Outcomes</h3>
 
 <h5><i>Objective 1.  Collect, store, and access data by identifying and leveraging applicable technologies</i></h5>
