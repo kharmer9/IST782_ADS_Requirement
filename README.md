@@ -2,7 +2,7 @@
 
 Below is the overview, video submission, and blog post for the IST 782 requirment. To view projects (also required for the project), please navigate to my [project portfolio](https://github.com/kharmer9/).
 
-<h3>[See Video Overview HERE!](https://youtu.be/RB0Tdj4KC3E)</h3>
+<b>[See Video Overview HERE!](https://youtu.be/RB0Tdj4KC3E)</b>
 
 <h3>Academic Learning Outcomes</h3>
 
